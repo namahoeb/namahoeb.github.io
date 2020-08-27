@@ -3,7 +3,9 @@ layout: essay
 type: essay
 title: Taking ITM 352
 date: 2020-08-26
-labels: Shidler Undergraduate
+labels: 
+  - Shidler Undergraduate
+  - ITM 352
 ---
 
 Aloha Everyone!
