@@ -1,7 +1,7 @@
 {
    "basics":{
       "name":"Brandy Namahoe",
-      "label":"Student",
+      "label":"Shidler Undergraduate",
       "picture":"https://namahoeb.github.io/images/Brandy.jpg",
       "email":"namahoeb@hawaii.edu",
       "phone":"808-741-6708",
@@ -34,41 +34,44 @@
          "keywords":[
             
          ]
+      },
+      {
+         "name":"Boba Tea",
+         "keywords":[
+            
+         ]
       }
    ],
    "skills":[
       {
-         "name":"Languages and Frameworks",
+         "name":"Microsoft",
          "level":"",
          "keywords":[
-            "C",
-            "C++",
-            "Java",
-            "Javascript",
-            "Assembly",
-            "Common Lisp"
+            "Word",
+            "Excel",
+            "Powerpoint",
+            "One Note"
          ]
       },
       {
-         "name":"Toolsets/OS",
+         "name":"Stock Market",
          "level":"",
          "keywords":[
-            "MacOS",
-            "Ubuntu",
-            "Git/GitHub",
-            "g++",
-            "TI LaunchPad"
+            "Stocks",
+            "Options",
+            "Forex",
+            "Day Trading"
          ]
       }
    ],
    "education":[
       {
          "institution":"University of Hawaii, Honolulu, HI",
-         "area":"Computer Science (expected Spring, 2018)",
-         "studyType":"B.S.",
-         "startDate":"2013-09-01",
+         "area":"Accounting, Finance, Management Information Systems (expected Fall, 2023)",
+         "studyType":"",
+         "startDate":"2019-08",
          "endDate":"Present",
-         "gpa":"",
+         "gpa":"3.9",
          "courses":[
             
          ]
@@ -76,69 +79,67 @@
    ],
    "work":[
       {
-         "company":"UH Manoa Board of Publications",
-         "position":"Web Developer",
+         "company":"Windward Community College",
+         "position":"Alaka'i Mentor",
          "website":"",
-         "startDate":"2015-08-01",
+         "startDate":"2020-08",
          "endDate":"Present",
-         "summary":"Head of online presence for Ka Leo",
+         "summary":"Tutor and mentor for ICS 101 and 100",
          "highlights":[
-            "Maintain, update, and oversee official college newspaper website",
-            "Drive, design and build student-community projects for UH Manoa"
+            "Tutor students enrolled in ICS 101 and 100",
+            "Sit in during office hours and classes to assist students during class"
          ]
       },
       {
-         "company":"UH Information Technology Services",
-         "position":"Help Desk Consultant",
-         "website":"http://www.hawaii.edu/its/",
-         "startDate":"2015-01-01",
-         "endDate":"2016-03-15",
-         "summary":"",
+         "company":"Bath and Body Works",
+         "position":"Sales Associate",
+         "website":"https://www.bathandbodyworks.com/",
+         "startDate":"2019-10",
+         "endDate":"Present",
+         "summary":"Making sales and assisting customers",
          "highlights":[
-            "Troubleshoot software, hardware and networking issues over the phone",
-            "Answer phone and email responses to the ITS Help Desk"
+            "Using Point-of-Sale machines",
+            "Speaking and assisting customers throughout the store",
+            "Restocking shelves and memorizing back stock room content"
          ]
       }
    ],
    "volunteer":[
       {
-         "organization":"Center for Renewable Energy and Island Sustainability",
-         "website":"http://manoa.hawaii.edu/reis",
-         "position":"Software Developer",
-         "startDate":"2016-01-01",
-         "endDate":"Present",
-         "summary":"Lead developer for weather sensing project",
+         "organization":"Accounting Club - Meals on Wheels",
+         "website":"",
+         "position":"Food Packager",
+         "startDate":"2019-12",
+         "endDate":"2019-12",
+         "summary":"Packing and storing frozen food to be distributed around to the community",
          "highlights":[
-            "Design firmware for distributed weather sensor network",
-            "Maintain custom data collection and storage infrastructure"
+            "Packaging frozen foods"
          ]
       },
       {
-         "organization":"",
+         "organization":"Manawa Kupono Lo'i Patch",
          "website":"",
-         "position":"Professional organization involvement",
+         "position":"",
          "startDate":"",
          "endDate":"",
-         "summary":"",
+         "summary":"Assisting with cleaning and planting Kalo is the Lo'i Patch",
          "highlights":[
-            "Chair, ACM Manoa, 2016-Present",
-            "Member, IEEE Student Branch, 2014-Present",
-            "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+            "College Opportunities Program UH Manoa"
          ]
       }
    ],
    "awards":[
       {
-         "title":"B+ Scholarship",
-         "date":"2013-Present",
-         "awarder":"State of Hawaii",
-         "summary":"Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+         "title":"",
+         "date":"",
+         "awarder":"",
+         "summary":""
       },
       {
-         "title":"First place",
-         "date":"2015",
-         "awarder":"University of Hawaii Micromouse Competition",
-         "summary":"My team won first place in 2015.  See my portfolio site for more details."
+         "title":"",
+         "date":"",
+         "awarder":"",
+         "summary":""
       }
    ],
    "references":[
