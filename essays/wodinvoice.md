@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: WOD Browser History
-date: 2020-09-14
+title: WOD Invoice
+date: 2020-09-23
 labels: 
   - WOD
-  - BrowserHistory
-  - Patience
+  - Invoice
+  - Practice
 ---
 
 
